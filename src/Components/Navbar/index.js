@@ -1,9 +1,9 @@
-import React,{Component} from 'react';
+import React from 'react';
 import './style.css';
 const Navbar = () => {
   return (
 <header>
-  <h1><img src="images/Logo.png" className="logoImg"/> </h1>
+  <h1><img src="images/Logo.png"alt="sorry" className="logoImg"/> </h1>
   <button className="navBtn"><a href="/">الرئيسية</a></button>
     <button className="navBtn"><a href="/Services">خدمتنا</a></button>
      <button className="navBtn"><a href="/OurCustomer">عملائنا </a></button>
