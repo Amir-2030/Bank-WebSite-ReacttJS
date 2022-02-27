@@ -1,0 +1,30 @@
+.APP{
+  background:white;
+}
+
+  .img-fluid{
+width: auto;
+  }
+  #appdown
+  {
+  
+   margin-top:-40px;
+   margin-right: 45%;
+  }
+
+  .btndown:hover{
+background-color: #580971;
+  }
+ 
+  .block-heading5{
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .AppTitle{
+
+padding-right:90px
+  }

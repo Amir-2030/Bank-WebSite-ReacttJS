@@ -1,0 +1,29 @@
+
+.features{
+	background:white;
+}
+.block-heading{
+	padding-bottom: 5px;
+}
+#features .block {
+	background:#580971;
+	color: #fff;
+	padding: 4px;
+	
+}
+#features .block .media {
+	border: 1px solid #fff;
+	
+}
+#features .block .media-heading {
+	margin-top: 10px;
+	margin-bottom: 0;
+	color: white;
+	
+}
+#features .block i {
+	font-size: 60px;
+	margin: 15px 20px;
+	
+}
+

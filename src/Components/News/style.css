@@ -1,0 +1,89 @@
+
+/*	 Catagorie Start
+    ==================================================*/
+
+    #catagorie {
+        background-color: white;
+    }
+    #catagorie .block {
+        margin-top: 30px;
+    }
+    
+    #catagorie .block .thumbnail {
+        border: none;
+        cursor: pointer;
+    }
+    #catagorie .block .thumbnail:hover .catagotie-head img {
+     opacity: 0.7;
+    }
+    #catagorie .block .thumbnail a img  {
+        width: 100%;
+        border:1px solid #dedede;
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        -ms-transition: all .3s ease-in-out;
+        -o-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+    }
+    #catagorie .block .thumbnail a img:hover {
+        color: #580971;
+        opacity: 0.7;
+    }
+    #catagorie .block .thumbnail:hover h3 {
+        color: #580971;
+    }
+    #catagorie .block .thumbnail a  h3 {
+        font-weight: 500;
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        -ms-transition: all .3s ease-in-out;
+        -o-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+    }
+    #catagorie .block .thumbnail .caption p {
+        font-size: 14px;
+        color: #580971;
+        font-weight: 300;
+    }
+    #catagorie .block .thumbnail .caption {
+        padding: 0;
+    }
+    .catagorie-box p span {
+        color: #580971;
+        font-weight: bold;
+    }
+    .catagorie-box .catagotie-head h3 {
+        color: white;
+    }
+    
+   .btn{
+       background-color:   #580971;
+       border-color: none;
+   }
+   .btn btn-default btn-transparent{
+       color:#580971;
+       
+   }
+.mo , #mo
+   {
+       
+       color:white;
+
+   }
+
+   #mo{
+    width:150px;
+    padding-top: 30px;  
+  
+    padding-bottom: 30px;
+    padding-right: 40%;
+   color: #dedede;
+   
+   }
+
+
+   .btn {
+    
+    color: white;
+   
+}

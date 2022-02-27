@@ -1,0 +1,26 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    direction:ltr;
+  }
+.page-link,
+.page-item
+{
+    color: black;
+    border-color: #580971;
+}
+
+.page-link :hover,
+.page-item :hover,
+.page-item.active 
+.page-link
+{
+    z-index: 3;
+    color: #fff;
+    background-color: #580971;
+    border-color: #580971;
+}
+
+
+
+
